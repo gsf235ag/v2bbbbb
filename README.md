@@ -11,7 +11,7 @@
 按以下步骤进行面板代码文件迁移：
 
     git remote set-url origin https://github.com/gsf235ag/v2bbbbb
-    git checkout main  
+    git checkout master    
     ./update.sh  
 
 
